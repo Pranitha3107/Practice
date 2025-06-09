@@ -1,4 +1,7 @@
 package com.Examples;
 public class lab003 {
-    //commented out
+    public static void main(String[] args){
+        //commented out
+    }
+
 }
