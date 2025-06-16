@@ -21,7 +21,14 @@ public class Triangle_classifier {
         } else {
             System.out.println("The triangle is Scalene.");
         }
+/*
+if side1=5,side2=6,side3=6
+5=6-->False && 6=6-->True
+False&&True-->False
+5==6-->False||6==6-->True||5==6-->False--->True
+else if-->Scalene
 
+ */
 
     }
 }
