@@ -1,4 +1,4 @@
-package com.Examples;
+package com.Ex001;
 
 public class printprintln {
     public static void main(String[] args) {

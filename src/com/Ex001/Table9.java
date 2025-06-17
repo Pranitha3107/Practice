@@ -1,4 +1,4 @@
-package com.Examples;
+package com.Ex001;
 public class Table9 {
     public static void main(String[] args){
         int a=9;
